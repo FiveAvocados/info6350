@@ -1,3 +1,4 @@
+Speaker;Text
 Speaker 2; I am a product manager and there is a separate UX research team, but not all teams can use UX research, so there are teams that run it individually, and in the case of our products, our project managers sometimes do it. We are making a platform that operates automatic screening of advertisements that enter the line. It's not a product shown by the user group, it's related to the backend, and what the user group is doing is creating a platform that makes it easy to create graphic materials for line ads.
 Speaker 1; You said that there are things that the pm group decides without UX researcher, so what kind of..?
 Speaker 2; Research is done in the same way, but the main role is not just to do user research, but to run it whenever necessary.
