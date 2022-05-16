@@ -1,3 +1,4 @@
+Speaker;Text
 Speaker 1;Can you explain what you are doing now?
 Speakr 2; I'm working on measuring health data and reporting it to users. It's illegal in the US to give out health data. For example, you are very angry You are very calm It is illegal to tell your emotional state in this way, so I am designing an application that shows ambiguous and I am designing a UI.
 Speak 1; What was it like when you did UX for a while?
